@@ -15,7 +15,7 @@ export default function Line (props){
 					</div>
 				</div>
 
-				<a href="/" className="btn">Заказать ремонт</a>
+				<a href="/#form" className="btn">Заказать ремонт</a>
 			</div>
 		</div>
 	)

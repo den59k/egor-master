@@ -3,25 +3,25 @@ import styles from './reviews.module.sass'
 const reviews = [
 	{ 
 		icon: "/db/reviews/1.jpg",
-		name: "Арсен Асренович",
+		name: "Арсен Арсенович",
 		company: `Директор ООО "Рога и Копыта"`,
 		text: "Мой офис пришел в негодность - поэтому обратился за ремонтом. Остался очень доволен результатом"
 	},
 	{ 
 		icon: "/db/reviews/1.jpg",
-		name: "Арсен Асренович",
+		name: "Вячеслав Вячеславов",
 		company: `Директор ООО "Рога и Копыта"`,
 		text: "Мой офис пришел в негодность - поэтому обратился за ремонтом. Остался очень доволен результатом"
 	},
 	{ 
 		icon: "/db/reviews/1.jpg",
-		name: "Арсен Асренович",
+		name: "Григорий Григорьевич",
 		company: `Директор ООО "Рога и Копыта"`,
 		text: "Мой офис пришел в негодность - поэтому обратился за ремонтом. Остался очень доволен результатом"
 	},
 	{ 
 		icon: "/db/reviews/1.jpg",
-		name: "Арсен Асренович",
+		name: "Иван Иванов",
 		company: `Директор ООО "Рога и Копыта"`,
 		text: "Мой офис пришел в негодность - поэтому обратился за ремонтом. Остался очень доволен результатом"
 	}
@@ -33,7 +33,7 @@ export default function Reviews (props){
 		<div className="container px">
 			<h2>Отзывы клиентов</h2>
 			<div className="sub">
-				Lorem ipsum dolor sit amet, consectetur <br/>adipiscing elit, sed do eiusmod tempor incididunt 
+				Мы стараемся делать всю работу на совесть<br/>Как итог - наши клиенты обращаются к нам снова и снова
 			</div>
 			<div className={styles.reviews}>
 				{reviews.map((item, index) => (

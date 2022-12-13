@@ -6,22 +6,22 @@ const features = [
 	{
 		icon: '/db/icons/shield.svg',
 		title: "3 года гарантии",
-		text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+		text: "Закупаем только проверенные временем материалы"
 	},
 	{
 		icon: '/db/icons/time.svg',
 		title: "Экономим ваше время",
-		text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+		text: "Выполняем работу качественно и в срок"
 	},
 	{
 		icon: '/db/icons/money.svg',
 		title: "Без дополнительных трат",
-		text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+		text: "Следуем заранее подготовленной смете"
 	},
 	{
 		icon: '/db/icons/like.svg',
 		title: "Следим за качеством",
-		text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+		text: "Надежный ремонт - залог вашей успешной жизни"
 	},
 ]
 

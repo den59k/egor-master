@@ -20,9 +20,10 @@ export default function Footer (props){
 		<footer className={styles.footer}>
 			<div className={cn("container px", styles.container)}>
 				<div>
-					<img src="/logo.png" alt="Логотип EgorMaster"/>
+					<img src="/logo.png" alt="Логотип EgorMaster" height="60px"/>
 					<div className={styles.footerText}>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
+						Все права на сайт защищены <br/>
+						Лицензия на строительство получена в 2022 году
 					</div>
 				</div>
 				<div className={styles.contacts}>
@@ -40,8 +41,8 @@ export default function Footer (props){
 			</div>
 			<div className={styles.lastFooter}>
 				<div className={cn("container", styles.container)}>
-					<div>Copywrite © 2020 <span>EgorMaster.com</span></div>
-					<div>Designed by ...</div>
+					<div>Copywrite © 2022 <span>ПНИПУ</span></div>
+					<div>Designed by PSTU design studio</div>
 				</div>
 			</div>
 		</footer>

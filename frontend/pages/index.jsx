@@ -9,6 +9,7 @@ import Reviews from 'blocks/reviews'
 import LineInfo from 'blocks/line-info'
 import Form from 'blocks/form'
 import BottomBlock from 'blocks/bottom'
+import Prices from 'blocks/prices'
 
 export default function Home() {
 	return (
@@ -20,6 +21,7 @@ export default function Home() {
 			<Cases/>
 			<Parallax/>
 			<Reviews/>
+			<Prices/>
 			<LineInfo/>
 			<Form/>
 			<BottomBlock/>

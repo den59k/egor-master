@@ -10,7 +10,7 @@ export default function Reviews (props){
 	}
 
 	return (
-		<div className="container px">
+		<div className="container px" id="form">
 			<h2>Закажите себе ремонт</h2>
 			<form className={styles.form}>
 				<h4>Сделайте шаг к ремонту мечты прямо сейчас</h4>

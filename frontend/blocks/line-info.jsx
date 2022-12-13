@@ -6,24 +6,24 @@ export default function LineInfo (props){
 	const info = [
 		{
 			icon: "/db/line-info/user.svg",
-			count: 100,
-			title: "Довольных клиентов"
+			count: 5,
+			title: "Лет на рынке"
+		},
+		{
+			icon: "/db/line-info/user.svg",
+			count: 32,
+			title: "Довольных клиента"
 		},
 		{
 			icon: "/db/line-info/case.svg",
-			count: 20,
-			title: "Выполненных проектов"
+			count: 32,
+			title: "Выполненных проекта"
 		},
 		{
 			icon: "/db/line-info/user.svg",
 			count: 5,
 			title: "Человек в команде"
 		},
-		{
-			icon: "/db/line-info/user.svg",
-			count: 100,
-			title: "Довольных клиентов"
-		}
 	]
 
 	return (

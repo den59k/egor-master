@@ -8,9 +8,9 @@ export default function Header (props){
     <div className={styles.background} style={{backgroundImage: `url(/photo.jpg)`}}>
       <div className={styles.overlay}>
         <h2>Ремонт офисов и квартир</h2>
-        <h1>EgorMaster</h1>
-        <div className={styles.sub}>Уже на протяжении 20 лет делаем<br/>качественный современный ремонт</div>
-        <a href="/" className={cn("btn", styles.button)}>Заказать ремонт</a>
+        <h1>Polytech</h1>
+        <div className={styles.sub}>Уже на протяжении 5 лет делаем<br/>качественный современный ремонт</div>
+        <a href="/#form" className={cn("btn", styles.button)}>Заказать ремонт</a>
       </div>
     </div>
   )

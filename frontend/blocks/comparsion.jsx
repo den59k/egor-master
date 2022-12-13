@@ -34,7 +34,7 @@ export default function Comparsion (props){
 			<div className={cn("container", "px")}>
 				<h2>Мы знаем, что такое качественный ремонт</h2>
 				<div className="sub">
-					Lorem ipsum dolor sit amet, consectetur <br/>adipiscing elit, sed do eiusmod tempor incididunt 
+					Сделайте и вы шаг к жизни в новых условиях уже сегодня
 				</div>
 				<div className={styles.image} ref={imageRef}>
 					<div className={styles.imageWrapper}>
@@ -46,7 +46,7 @@ export default function Comparsion (props){
 					<button style={{left: left+"%"}} className={styles.delimiter} onMouseDown={onMouseDown}>
 					</button>
 				</div>
-				<div>Квартира для семьи из 5 человек</div>
+				<div>Квартира в кирпичном доме для семьи из 5 человек</div>
 			</div>
 		</div>
 	)
