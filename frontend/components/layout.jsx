@@ -15,7 +15,7 @@ export default function Layout (props) {
 				<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet"/>
 				<meta name="description" content="Ремонт по европейским стандартам от израильской компании под ключ" />
 				<meta property="og:title" content="Ремонт офисов и квартир - EgorMaster" />
-				<meta property="og:site_name" content="Ремонт офисов и квартир - EgorMaster" />
+				<meta property="og:site_name" content="Egor Master - ремонт под ключ" />
 				<meta property="og:description" content="Ремонт по европейским стандартам от израильской компании под ключ" />
 				<meta name="viewport" content="width=device-width,initial-scale=1"/>
 				<link rel="manifest" href="/manifest.json" />
