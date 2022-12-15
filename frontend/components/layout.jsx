@@ -17,6 +17,8 @@ export default function Layout (props) {
 				<meta property="og:title" content="Ремонт офисов и квартир - EgorMaster" />
 				<meta property="og:site_name" content="Ремонт офисов и квартир - EgorMaster" />
 				<meta property="og:description" content="Ремонт по европейским стандартам от израильской компании под ключ" />
+				<meta name="viewport" content="width=device-width,initial-scale=1"/>
+				<link rel="manifest" href="/manifest.json" />
 				<script type="text/javascript" dangerouslySetInnerHTML={{ __html: `
 					(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
 						m[i].l=1*new Date();
